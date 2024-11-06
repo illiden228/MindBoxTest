@@ -80,6 +80,7 @@ ORDER BY
     p.product_name, c.category_name;
 ```
 **Результат (CSV)**
+```
 Among Us;Multiplayer
 Cyberpunk 2077;Action
 Cyberpunk 2077;RPG
@@ -97,3 +98,4 @@ Stardew Valley;NULL
 The Sims 4;Simulation
 The Witcher 3: Wild Hunt;Action
 The Witcher 3: Wild Hunt;RPG
+```
